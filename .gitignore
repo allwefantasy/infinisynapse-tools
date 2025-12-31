@@ -1,5 +1,6 @@
 # Binaries
 markdown2pdf/markdown2pdf
+markdown2word/markdown2word
 *.exe
 *.exe~
 *.dll
@@ -31,8 +32,9 @@ go.work
 .Trashes
 Thumbs.db
 
-# PDF output files (for testing)
+# Output files (for testing)
 *.pdf
+*.docx
 
 # Dependency directories
 vendor/
