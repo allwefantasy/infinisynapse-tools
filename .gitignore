@@ -1,6 +1,9 @@
 # Binaries
 markdown2pdf/markdown2pdf
 markdown2word/markdown2word
+
+# Release builds
+releases/
 *.exe
 *.exe~
 *.dll
